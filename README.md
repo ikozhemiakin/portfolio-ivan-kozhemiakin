@@ -12,7 +12,7 @@ Open `index.html` locally or deploy to GitHub Pages / Vercel.
 - **Fully responsive** — mobile, tablet, desktop
 - **Sections**: Hero, About, Experience, Projects, Skills, Contact
 - **CV downloads**: Laravel & Magento PDF resumes in `/public`
-- **Links**: GitHub, LinkedIn, task-management repo
+- **Links**: GitHub, LinkedIn, dealership-crm &amp; task-management repos
 
 ## Tech stack
 
